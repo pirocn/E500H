@@ -1,0 +1,4 @@
+Density: 320 dp / xhdpi / 2.0x
+Exact Density: 294.967 x 295.563 dp
+Resolution: 720 x 1280 px
+Screen Size: 2.4" x 4.3" / 5.0 Inches
